@@ -78,11 +78,11 @@ The Super-Store Sales Dashboard includes the following features:
 ## Insights and Learnings
 Through this project, the following insights were gained:
 
-  ~Key sales trends and seasonal patterns.
-  ~Identification of top-performing products and categories.
-  ~Regional performance and market opportunities.
-  ~Customer segmentation and targeting strategies.
-  ~Impact of discounts on sales and profitability.
+  1. Key sales trends and seasonal patterns.
+  2. Identification of top-performing products and categories.
+  3. Regional performance and market opportunities.
+  4. Customer segmentation and targeting strategies.
+  5. Impact of discounts on sales and profitability.
 
 ## Contributing
 Contributions to this project are welcome! If you have any suggestions or improvements, feel free to create a pull request or open an issue.
